@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.renz-btn{
+	background: #06a73f !important;
+	width: 100% !important;
+	color: #fff !important;
+	padding: 20px;
+}
+#mce-EMAIL{
+	width: 100% !important;
+	margin-bottom: 10px;
+}

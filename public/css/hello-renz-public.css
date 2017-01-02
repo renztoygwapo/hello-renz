@@ -1,0 +1,39 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+#hello-renz {
+    background: #007fd3;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+
+}
+#hello-renz-content{
+    text-align: center;
+}
+#hello-renz a.button{
+	color: rgb(255, 255, 255); 
+	text-decoration: none;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold; font-size: 16px;
+	line-height: 20px;
+	padding: 10px;
+	display: inline-block;
+	max-width: 100%;
+	border-radius: 5px;
+	background: #ff1744;
+}
+#hello-renz .title{
+	color: #fff;
+	font-size: 20px;
+}
+#hello-renz .sub-title{
+	color: #fff;
+	font-size: 16px;
+}
+#hello-renz span{
+	font-weight: bold;
+}
+
