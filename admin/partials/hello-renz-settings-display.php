@@ -57,10 +57,9 @@
 						<h3 class="hndle"><span>Subscribe to Hello Renz Plugins</span></h3>
 						<div class="inside">
 							<div id="mc_embed_signup">
-									<p>Our plugins are coded with best practices in mind, they will not slow down your site or spam database.
+									<p>This plugins are coded with best practices in mind, they will not slow down your site or spam database.
 										Guaranteed to work and always up to date. 
-										<br/>Subscribe to get notificed once new plugin is out. No spam, just one mail per one new plugin.</p>
-										<p>We are just starting, so each subscriber means a lot to us...no spam...pinky promise.</p>
+										<br/>Subscribe to get notificed once new plugin is out or update.</p>
 									<!-- Begin MailChimp Signup Form -->
 									<div id="mc_embed_signup">
 									<form action="//florencecomajes.us14.list-manage.com/subscribe/post?u=566b53449919537dc79ddb939&amp;id=731bd67cc0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
